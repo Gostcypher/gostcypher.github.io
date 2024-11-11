@@ -1,1 +1,1 @@
-# gostcypher.github.io
+# Gostcypher Blog
